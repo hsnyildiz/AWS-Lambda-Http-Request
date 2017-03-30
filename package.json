@@ -1,0 +1,7 @@
+{
+  "name": "lambda1",
+  "private": true,
+  "dependencies": {
+    "minimal-request-promise": "*"
+  }
+}
